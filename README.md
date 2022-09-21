@@ -10,5 +10,7 @@
 ### JDAViz JWST Data Visualization Toolset
 https://www.stsci.edu/contents/news/jwst/2021/jdaviz-the-new-jwst-data-visualization-toolset-is-now-available
 
+**github** https://github.com/spacetelescope/jdaviz
+
 ### JWST Science Calibration Pipeline
 https://jwst-pipeline.readthedocs.io/en/latest/jwst/introduction.html
