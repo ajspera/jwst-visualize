@@ -14,3 +14,10 @@ https://www.stsci.edu/contents/news/jwst/2021/jdaviz-the-new-jwst-data-visualiza
 
 ### JWST Science Calibration Pipeline
 https://jwst-pipeline.readthedocs.io/en/latest/jwst/introduction.html
+
+### JWST-Docs (https://jwst-docs.stsci.edu/)
+- https://jwst-docs.stsci.edu/getting-started-with-jwst-data
+- https://jwst-docs.stsci.edu/understanding-jwst-data-files
+- https://jwst-docs.stsci.edu/accessing-jwst-data
+- https://jwst-docs.stsci.edu/jwst-post-pipeline-data-analysis
+- https://jwst-docs.stsci.edu/jwst-data-video-tutorials
