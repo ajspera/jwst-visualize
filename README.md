@@ -21,3 +21,5 @@ https://jwst-pipeline.readthedocs.io/en/latest/jwst/introduction.html
 - https://jwst-docs.stsci.edu/accessing-jwst-data
 - https://jwst-docs.stsci.edu/jwst-post-pipeline-data-analysis
 - https://jwst-docs.stsci.edu/jwst-data-video-tutorials
+  - https://www.youtube.com/c/JWSTObserver/playlists
+  - https://www.stsci.edu/jwst/science-execution/jwebbinars
